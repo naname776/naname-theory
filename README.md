@@ -1,6 +1,5 @@
 # naname-theory
 
-# naname-theory
 
 - Core theory (NM structure)  
 - Application paper  
