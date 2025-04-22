@@ -450,7 +450,6 @@ Meaning arises only from the perspective of the one who receives it,
 and outside the structure, space always remains open.
 
 If this proposal contributes in any way to greater understanding or structural realignment,
-
 that alone may constitute one of the meanings behind this model’s creation.
 
 
