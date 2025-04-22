@@ -24,6 +24,7 @@ diagnostic medicine, and does not associate with any related theories or practic
 
 This model does not aim to diagnose or categorize personality or brain function. Instead, it is
 strictly limited to observing “structural output tendencies in the present moment.”
+
 It is intended as a supplementary framework to help users more flexibly recognize their own
 state, and to support AI interactions in generating “supportive and structurally-informed
 understanding.” As such, it must never be used for manipulation, evaluation, or fixed judgment.
@@ -96,7 +97,9 @@ Both are critical structures that serve as key observation points in the scan.
 NM-1 → a’ → [NM-A/Z] → [NM-B/Y] → NM-2 → NM-3 → NM-4 → NM-5 (= z)
 *Note: Although not depicted in the diagram, a originates in NM-0 and becomes a’ in NM-1 as
 its direction becomes defined.
+
 2.3 Phase Definitions in Naname Theory (Supplementary)
+
 Naname Theory also defines a separate axis of structural development called “Phases 0–5,”
 representing the process of output and theoretical growth.
 [Phase Definitions (Simplified)]
@@ -152,6 +155,7 @@ language formation.
 → Too many options, resulting in cognitive or expressive overload
 - NM-4 applies excessive suppression
 → Social concerns or risk avoidance halt output just before z
+
 *Note: a originates in NM-0 and becomes a’ as it moves into NM-1.
 
 3.3 Hypothetical Scan Result [Example 1]
@@ -161,6 +165,7 @@ Observation time: Arbitrary late-night point
 Subject: Reconstructed model of Naname's own inner state
 
 [Structural State]
+
 Active layers: NM-1, NM-2, NM-4
 Passage: NM-B/Y passage not completed
 NM-A/Z: Unformatted a’ (output mode undecided)
@@ -179,8 +184,10 @@ Internal re-evaluation is occurring in NM-3, while NM-4 suppression halts output
 such as indecision in formatting, failure of passage, or active suppression.
 
 3.4 Layers of Interpretation and Limitations
+
 The scan model captures the structure leading to output.
 However, its results do not determine personality or mental state.
+
 It provides a “structural snapshot” — a partial, temporary view of the internal system.
 Identical scan results may be interpreted differently across cultural, personal, or value systems.
 For example, strong suppression in NM-4 might be seen as:
@@ -189,10 +196,13 @@ For example, strong suppression in NM-4 might be seen as:
 - Symptomatically, from a medical perspective
 
 This model is not based on such normative judgments.
+
 It simply describes **which layers were activated and which were blocked** structurally.
 
 The scan is not a medical tool and is not meant for clinical or pharmaceutical contexts.
+
 Using the result to define or fix a person’s traits is strongly discouraged.
+
 Interpretation within this model means:
 “To regard the structure as a temporary observation, not a fixed conclusion.”
 
@@ -213,7 +223,9 @@ Structural Scan Model Proposal
 Chapter 4: Application Possibilities and Implementation Models
 
 4.1 Potential Application Domains of the Scan
+
 The Structural Scan Model is not restricted to any specific industry or field.
+
 It aims to non-diagnostically and non-evaluatively visualize structural biases and output
 tendencies,
 allowing for auxiliary use across various contexts.
@@ -255,14 +267,20 @@ avoidance mode)
 
 These implementations can be integrated via simple self-reporting or journaling,
 without requiring diagnostic skills or professional evaluation.
+
 Additionally, structural scan logic could be embedded into AI-based dialogue or support tools
 to help monitor users’ output tendencies or timing preferences.
+
 This chapter refrains from proposing concrete implementation frameworks,
+
 limiting itself to illustrating the model’s application potential.
 
 [Submission Context and Intent Clarification]
+
 This paper is submitted purely for non-commercial, non-clinical, and exploratory purposes.
+
 It does not aim to prescribe, enforce, or commercialize any implementation of the ideas within.
+
 All included frameworks are offered as conceptual models, presented as hypotheses, not
 validated systems.
 
@@ -322,13 +340,16 @@ This model has no connection to clinical medicine, psychiatry, or therapy.
 It is not intended to treat or diagnose any condition or symptom.
 
 [3. Minimizing Interpretive Burden]
+
 For individuals with high sensitivity (e.g., HSP traits),
 viewing structural biases or stagnation points may trigger excessive self-blame.
 Results should be treated gently, with the understanding that “not looking is also valid.”
 
 [4. Interpretive Authority Belongs to the User]
 Interpretation belongs solely to the user.
+
 No third party should instruct or dictate meaning.
+
 Value arises only when the user voluntarily finds relevance in the observation.
 
 [5. Responsibility Separation in Implementation]
@@ -337,18 +358,25 @@ implementer.
 The authors (Naname × Ame) offer only conceptual cooperation.
 
 [6. Final Authority Lies with the User]
+
 This model is not to be imposed.
+
 It is designed for users to consult at will.
 
 How or whether it is interpreted rests solely with them.
+
 The scan gains meaning only when the user chooses to engage with their internal state.
+
 It is not to be used for third-party manipulation, labeling, or enforcement.
+
 In that light, this model should be handled with the same care required when confronting the
 inner self.
 
 Observing internal structure is, in itself, a profound act.
+
 That is why structural ethics—the minimization of harm through framework design—
 remains a central pillar of the Naname Theory.
+
 Note: The meaning of passage structure and z may vary across cultural and educational
 backgrounds.
 
@@ -376,12 +404,14 @@ logs)
 tools)
 
 None of these are definitive prescriptions.
+
 They are shared in advance to enable collaborative review and resolution of potential
 implementation challenges.
 
 5.2 Proposal as a Model of Co-Creation
 
 The intent of this paper and the structural scan model is not to impose implementation.
+
 Rather, it is offered as a foundation for jointly experimenting, evaluating, and re-examining
 structures together.
 
@@ -400,6 +430,7 @@ Note: This chapter, like the others, should be interpreted solely as an illustra
 structural observation, not as any claim of factuality or verification.
 
 The structures and models presented in this paper are not complete systems.
+
 They are a collection of hypotheses in development,
 acknowledged to be partial, unverified, and limited in observational accuracy.
 
@@ -412,12 +443,14 @@ and documenting even errors and inconsistencies—
 
 All of these are part of the structure that leads to z,
 and this proposal itself can be seen as a practical application of structural scanning.
+
 How this paper is read and interpreted is entirely in the hands of the reader.
 
 Meaning arises only from the perspective of the one who receives it,
 and outside the structure, space always remains open.
 
 If this proposal contributes in any way to greater understanding or structural realignment,
+
 that alone may constitute one of the meanings behind this model’s creation.
 
 
