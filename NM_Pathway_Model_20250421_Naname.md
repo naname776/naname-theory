@@ -29,7 +29,8 @@ in interpretation and judgment.
 This model is not a tool to judge or classify others, but rather a means for the user to
 understand their “internal movement and state,” serving as an aid for dialogue and reflection.
 
-It is designed to be used as a “structural mirror” to assist in self-understanding and adjustment,
+
+It is designed to be used as a “structural mirror” to assist in self-understanding and adjustment,
 and it runs counter to the intent of this proposal if used to impose structure or evaluations on
 others.
 
@@ -62,7 +63,8 @@ passage structures:
 appropriate output modality (language, behavior, etc.).
 It acts not as a pathway, but as a selector of format and route.
 
-- **NM-B/Y: The actual route through which formatted a’ passes**
+
+- **NM-B/Y: The actual route through which formatted a’ passes**
 → Once formatted by NM-A/Z, a’ must pass through NM-B/Y to proceed to NM-2 and beyond.
 If the passage is not completed, z cannot be reached, and stagnation or reconsideration may
 occur.
@@ -92,7 +94,8 @@ This scan model does not evaluate the output z in isolation.
 Instead, it observes the “passage tendencies” and “structural biases” leading up to z
 in order to grasp the overall structural state.
 
-The scan observes the following internal structure:
+
+The scan observes the following internal structure:
 [NM-1] → a’ → [NM-A/Z] → [NM-B/Y] → [NM-2] → [NM-3] → [NM-4] → [NM-5 (= z)]
 Particularly, it observes:
 - Which layers are active
@@ -123,7 +126,8 @@ language formation.
 3.3 Hypothetical Scan Result [Example 1]
 Observation time: Arbitrary late-night point
 
-Subject: Reconstructed model of Naname's own inner state
+
+Subject: Reconstructed model of Naname's own inner state
 [Structural State]
 Active layers: NM-1, NM-2, NM-4
 Passage: NM-B/Y passage not completed
@@ -155,7 +159,8 @@ Using the result to define or fix a person’s traits is strongly discouraged.
 Interpretation within this model means:
 “To regard the structure as a temporary observation, not a fixed conclusion.”
 
-People with HSP traits or sensory sensitivity may feel burdened by seeing such internal states.
+
+People with HSP traits or sensory sensitivity may feel burdened by seeing such internal states.
 Therefore, the scan assumes:
 - It reflects only the present structural state
 - Interpretive authority lies solely with the observer
@@ -187,7 +192,8 @@ who struggle with choosing output formats or timing may benefit from this model,
 as it avoids evaluation while still enabling structural understanding.
 This scan is designed to temporarily observe the internal passage leading to output (z),
 
-without assigning value or offering solutions.
+
+without assigning value or offering solutions.
 Thus, it may serve as a supplementary foundation in areas such as self-understanding,
 mutual aid, and identifying tendencies.
 4.2 Minimal Implementation Model
@@ -220,7 +226,8 @@ emphasize full interpretive freedom.
 This structural scan model is not intended for clinical, evaluative, or judgmental use.
 It is designed to serve as an auxiliary perspective for observing the tendencies that precede
 
-output.
+
+output.
 Given its independence from specific theoretical systems or institutional frameworks,
 it may be handled cautiously and considered for exploratory use only.
 This section outlines potential implementation directions—not as demands,
@@ -249,7 +256,8 @@ Careful attention is required during any implementation or application.
 The scan reflects a momentary structural position,
 not an individual’s traits or essence.
 
-Treating it as diagnosis or proof of identity risks undermining its flexibility.
+
+Treating it as diagnosis or proof of identity risks undermining its flexibility.
 [2. Separation from Medical and Psychological Fields]
 This model has no connection to clinical medicine, psychiatry, or therapy.
 It is not intended to treat or diagnose any condition or symptom.
@@ -279,7 +287,8 @@ remains a central pillar of the Naname Theory.
 Note: The meaning of passage structure and z may vary across cultural and educational
 backgrounds.
 
-This model does not interfere with those differences and aims to remain equidistant from all
+
+This model does not interfere with those differences and aims to remain equidistant from all
 interpretations.
 
 Structural Scan Model Proposal
@@ -309,7 +318,8 @@ Given that, if this model can be of help to someone’s understanding or process
 we are prepared to stand alongside them and continue adjusting as needed.
 Co-creation is the act of “standing together before the form is fully decided.”
 
-5.3 Offering It as a Hypothesis in Progress
+
+5.3 Offering It as a Hypothesis in Progress
 Note: This chapter, like the others, should be interpreted solely as an illustrative example of
 structural observation, not as any claim of factuality or verification.
 
@@ -329,4 +339,3 @@ and outside the structure, space always remains open.
 If this proposal contributes in any way to greater understanding or structural realignment,
 that alone may constitute one of the meanings behind this model’s creation.
 
-
