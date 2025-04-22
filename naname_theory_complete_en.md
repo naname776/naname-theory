@@ -14,7 +14,7 @@ Moreover, the very process through which this theory came into being can itself 
 
 Thus, in this theory, *structure* is not a conceptual frame applied after the fact, but the very form that is passed through and recorded as output.
 
-🕊 Position Statement (ver.1.3 – Cultural & Disciplinary Sensitivity)
+ Position Statement (ver.1.3 – Cultural & Disciplinary Sensitivity)
 
 The Naname Theory may be interpreted in ways that harmonize with diverse religious, philosophical, or cultural traditions. It does not assert what is right or wrong. Rather, it invites us to explore *how* we feel, think, react, and pass through phenomena—structurally.
 
