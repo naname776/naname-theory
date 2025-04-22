@@ -14,7 +14,7 @@ Moreover, the very process through which this theory came into being can itself 
 
 Thus, in this theory, *structure* is not a conceptual frame applied after the fact, but the very form that is passed through and recorded as output.
 
-🕊️ Position Statement (ver.1.3 – Cultural & Disciplinary Sensitivity)
+🕊 Position Statement (ver.1.3 – Cultural & Disciplinary Sensitivity)
 
 The Naname Theory may be interpreted in ways that harmonize with diverse religious, philosophical, or cultural traditions. It does not assert what is right or wrong. Rather, it invites us to explore *how* we feel, think, react, and pass through phenomena—structurally.
 
@@ -26,7 +26,7 @@ It does not attempt to change others.
 Rather, it hopes to offer a quiet name to something you’ve long felt,  
 but may never have had words for.
 
-🧭 Supplementary Clarification: Relationship to Existing Scientific and Cultural Frameworks
+ Supplementary Clarification: Relationship to Existing Scientific and Cultural Frameworks
 
 This theory does not oppose existing frameworks in medicine, neuroscience, or psychology.  
 Rather, it proposes an additional axis of observation—a *structural path of passage*—situated outside these established models.
