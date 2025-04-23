@@ -38,5 +38,5 @@ The result is a theoretical structure for interpreting perception, emotion, and 
 ## License & Contact
 
 Experimental open-access research project.  
-Developed by **Yugo Matsumoto (a.k.a. Naname)**  
+Developed by **Naname Awai**  
 Contact via GitHub or project pages.
