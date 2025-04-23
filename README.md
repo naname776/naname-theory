@@ -22,6 +22,7 @@ Perhaps to be understood by few.
 - Foundational Paper (Preprint): https://zenodo.org/record/15258724  
 - Application Model (Preprint): https://zenodo.org/record/15258748  
 - GitHub Repository: https://github.com/naname776/naname-theory
+- What It Means to Say Something(Preprint): https://zenodo.org/records/15269226
 
 ---
 
