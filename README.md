@@ -19,7 +19,14 @@ Perhaps to be understood by few.
 
 ## Resources
 
-- https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Matsumoto%2C%20Yugo%20%28a.k.a.%20Naname%29%22&l=list&p=1&s=10&sort=newest
+-  Naname Theory: Preprint Archive
+
+You can find the list of all published preprints of the Naname Theory here:
+
+ [Zenodo: Naname Theory Preprints](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Matsumoto%2C%20Yugo%20%28a.k.a.%20Naname%29%22&l=list&p=1&s=10&sort=bestmatch)
+
+(Currently includes versions from v1.0 to the latest updates.)
+
 
 ---
 
