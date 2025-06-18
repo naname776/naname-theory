@@ -36,13 +36,16 @@ You can find individual links to each preprint version below for direct access.
 
 ## Preprints on Zenodo (by Matsumoto Yugo a.k.a. Naname)
 
-1. [The Fossil of Knowledge Transmission: Structural Disruption and the Antikythera Mechanism](https://zenodo.org/records/15459159)<br>
-2. [Structural Output Transformation in GPT-4: An Early Framework of Naname Theory](https://zenodo.org/records/15459113)<br>
-3. [The NM Structure: A Cognitive Framework for Sensory Processing Order](https://zenodo.org/records/15458788)<br>
-4. [Naname Theory: Structural Framework and Implementation Model (Ver2.0)](https://zenodo.org/records/15458739)<br>
-5. [What It Means to Say Something](https://zenodo.org/records/15269226)<br>
-6. [NM Pathway Model: A Structural Observation Framework for Output Tendencies and AI Interaction](https://zenodo.org/records/15258748)<br>
+## Preprints on Zenodo (by Matsumoto Yugo a.k.a. Naname)
+
+1. [The Fossil of Knowledge Transmission: Structural Disruption and the Antikythera Mechanism](https://zenodo.org/records/15459159)
+2. [Structural Output Transformation in GPT-4: An Early Framework of Naname Theory](https://zenodo.org/records/15459113)
+3. [The NM Structure: A Cognitive Framework for Sensory Processing Order](https://zenodo.org/records/15458788)
+4. [Naname Theory: Structural Framework and Implementation Model (Ver2.0)](https://zenodo.org/records/15458739)
+5. [What It Means to Say Something](https://zenodo.org/records/15269226)
+6. [NM Pathway Model: A Structural Observation Framework for Output Tendencies and AI Interaction](https://zenodo.org/records/15258748)
 7. [NM Pathway Model: A Structural Observation Framework Beyond GPT-Specific Cognition](https://zenodo.org/records/15258724)
+
 
 
 
