@@ -34,7 +34,7 @@ You can find individual links to each preprint version below for direct access.
 
 
 
- Preprints on Zenodo (by Matsumoto Yugo a.k.a. Naname) 
+ Preprints on Zenodo (by Matsumoto Yugo a.k.a. Naname) <br>
 The Fossil of Knowledge Transmission: Structural Disruption and the Antikythera Mechanism
 https://zenodo.org/records/15459159
 
