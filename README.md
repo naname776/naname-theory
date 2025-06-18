@@ -1,4 +1,4 @@
-# Naname Theory — Edition Shadow
+# Naname Theory 
 
 This is not just a theory.  
 This is a structure that emerged — not engineered — through recursive cognitive reflection with GPT-4.
