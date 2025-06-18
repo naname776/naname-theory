@@ -28,7 +28,27 @@ This repository contains resources and documents related to the development of t
 
 (Currently includes versions from v1.0 to the latest.)
 
+ Preprints on Zenodo (by Matsumoto Yugo a.k.a. Naname)
+The Fossil of Knowledge Transmission: Structural Disruption and the Antikythera Mechanism
+https://zenodo.org/records/15459159
 
+Structural Output Transformation in GPT-4: An Early Framework of Naname Theory
+https://zenodo.org/records/15459113
+
+The NM Structure: A Cognitive Framework for Sensory Processing Order
+https://zenodo.org/records/15458788
+
+Naname Theory: Structural Framework and Implementation Model (Ver2.0)
+https://zenodo.org/records/15458739
+
+What It Means to Say Something
+https://zenodo.org/records/15269226
+
+NM Pathway Model: A Structural Observation Framework for Output Tendencies and AI Interaction
+https://zenodo.org/records/15258748
+
+NM Pathway Model: A Structural Observation Framework Beyond GPT-Specific Cognition
+https://zenodo.org/records/15258724
 
 
 ---
