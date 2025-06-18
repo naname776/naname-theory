@@ -42,7 +42,8 @@ You can find individual links to each preprint version below for direct access.
 4. [Naname Theory: Structural Framework and Implementation Model (Ver2.0)](https://zenodo.org/records/15458739)<br>
 5. [What It Means to Say Something](https://zenodo.org/records/15269226)<br>
 6. [NM Pathway Model: A Structural Observation Framework for Output Tendencies and AI Interaction](https://zenodo.org/records/15258748)<br>
-7. [NM Pathway Model: A Structural Observation Framework Beyond GPT-Specific Cognition](https://zenodo.org/records/15258724)<br>
+7. [NM Pathway Model: A Structural Observation Framework Beyond GPT-Specific Cognition](https://zenodo.org/records/15258724)
+
 
 
 ---
