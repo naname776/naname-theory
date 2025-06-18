@@ -19,10 +19,7 @@ Perhaps to be understood by few.
 
 ## Resources
 
-- Foundational Paper (Preprint): https://zenodo.org/record/15258724  
-- Application Model (Preprint): https://zenodo.org/record/15258748  
-- GitHub Repository: https://github.com/naname776/naname-theory
-- What It Means to Say Something(Preprint): https://zenodo.org/records/15269226
+- https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Matsumoto%2C%20Yugo%20%28a.k.a.%20Naname%29%22&l=list&p=1&s=10&sort=newest
 
 ---
 
