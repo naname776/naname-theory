@@ -19,13 +19,15 @@ Perhaps to be understood by few.
 
 ## Resources
 
--  Naname Theory: Preprint Archive
+-   Naname Theory
 
-You can find the list of all published preprints of the Naname Theory here:
+This repository contains resources and documents related to the development of the Naname Theory.
 
- [Zenodo: Naname Theory Preprints](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Matsumoto%2C%20Yugo%20%28a.k.a.%20Naname%29%22&l=list&p=1&s=10&sort=bestmatch)
+ Preprints and published versions are available on Zenodo:
+ [Naname Theory – Preprint Archive on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Matsumoto%2C%20Yugo%20%28a.k.a.%20Naname%29%22&l=list&p=1&s=10&sort=bestmatch)
 
-(Currently includes versions from v1.0 to the latest updates.)
+(Currently includes versions from v1.0 to the latest.)
+
 
 
 ---
